@@ -306,7 +306,7 @@ border-radius: 45px;
 background-size: cover;
 background-position: center;
 margin:100px auto 100px auto;
-background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(pics/appoint.jpg);
+background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(appoint.jpg);
 }
 .ctaH{
 color: #fff;
